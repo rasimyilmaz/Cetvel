@@ -1,0 +1,5 @@
+export const setUser = 'Set user'
+export const setUserConfig = 'Set user config'
+export const setRememberMe = 'Set user remember me'
+export const setSignedIn = 'Set user signed in'
+export const signOut='Sign out'
